@@ -3,7 +3,7 @@ A couple of scripts to control Philips Hue lights
 
 They are super simple, and are meant for people who want to be able to control their Philips Hue lights by desktop shortcuts, without having extra programs running in the background. Right now it controls all of the lights connected to your Bridge.
 
-If lights are off, HueUp.py turns on all lights (50% brightness). If lights are on, it increases brightness in 20% intervals (adjustable).
+If lights are off, HueUp.py turns on all lights (50% brightness). If lights are already on, it increases brightness in 20% intervals (adjustable).
 
 If lights are on, HueDown.py decreases brightness in the same intervals, until they turn off.  
 
